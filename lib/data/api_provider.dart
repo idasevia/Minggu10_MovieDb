@@ -1,6 +1,6 @@
 import 'dart:convert';
 import "package:http/http.dart" show Client, Response;
-import 'package:rest_api/model/popular_movies.dart';
+import 'package:acara35/model/popular_movies.dart';
 import 'package:http/http.dart';
 
 class ApiProvider {
